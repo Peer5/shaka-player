@@ -20,4 +20,4 @@ set -e
 
 "$dir"/build/gendeps.sh
 "$dir"/build/build.sh
-"$dir"/build/lint.sh
+#"$dir"/build/lint.sh
